@@ -40,7 +40,7 @@
 }
 
 
-@media screen and (max-width: 768px){
+
     .jump-button {
     display: block:
     background: linear-gradient(to bottom right, rgb(244 114 182), rgb(248 113 113));
@@ -69,7 +69,7 @@
 .jump-button:active{
     transform: translateX(-50%) scale(0.95);
 }
-}
+
 
 @keyframes pipe-animation{
     from{
