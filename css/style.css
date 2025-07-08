@@ -39,9 +39,6 @@
     animation: clouds-animation 15s infinite linear;
 }
 
-.jump-button{
-    display: none;
-}
 
 @media screen and (max-width: 768px){
     .jump-button {
